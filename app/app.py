@@ -11,7 +11,8 @@ st.markdown(html_title, unsafe_allow_html=True)
 st.markdown("""
 Cette version étendue a été popularisée par la série « The Big Bang Theory ». Voici
 [une vidéo de Sheldon Cooper](https://youtu.be/_PUEoDYpUyQ)
-expliquant les règles du jeux à cinq positions. Nous avons remplacé le lézard par un python... car nous programmons en Python !
+expliquant les règles du jeux à cinq positions. Nous avons remplacé le lézard par un python... car nous programmons en
+[Python !](https://www.python.org).
 """, unsafe_allow_html=True)
 
 
